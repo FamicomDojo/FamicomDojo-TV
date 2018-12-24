@@ -17,6 +17,3 @@ the podcast RSS feed.
 Games library:
 A place to go to discover information about video game consoles, add-ons, peripherals, and individual games. 
 Likely has relationships to original videos and podcasts on the site.
-
-Blog:
-Currently a WordPress install.
